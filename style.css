@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  min-height: 1000px;
+  display: flex;
+  flex-direction: column;
+  background-color: #121212; /* Dark background color */
+  color: white; /* Text color */
+}
+
+.headerBar {
+  background: linear-gradient(to right, #0073e6, #00a8ff); /* Gradient blue header background */
+  color: #fff; /* Header text color */
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  margin-bottom: 20px;
+  color: white;
+}
+
+.topbar {
+  margin-bottom: 10px;
+}
+
+.currency {
+  font-size: 30px;
+  font-weight: 300;
+  color: #ffffff; /* Gradient blue currency color */
+}
+
+.balance {
+  font-size: 30px;
+  font-weight: 300;
+  color: #ffffff; /* Gradient blue balance color */
+}
+
+.content {
+  width: 580px;
+  margin: 0 auto;
+  padding: 3%;
+  padding-left: 6%;
+  background-color: #333; /* Dark content background color */
+}
+
+.secondTitle {
+  background: linear-gradient(to right, #0073e6, #00a8ff); /* Gradient blue title background */
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.form {
+  padding: 5px;
+  padding-top: 20px;
+  padding-left: 10%;
+  justify-content: center;
+  background-color: #444; /* Dark form background color */
+}
+
+.formLine {
+  display: inline-flex;
+  padding: 5px 0px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+  margin-right: 100px;
+}
+
+input,
+select {
+  width: 130px;
+  margin-left: 10px;
+  background-color: #555; /* Dark input background color */
+  color: white; /* Input text color */
+}
+
+/* table style */
+table {
+  width: 100%;
+  background-color: #333; /* Dark table background color */
+}
+
+thead {
+  background: linear-gradient(to right, #0073e6, #00a8ff); /* Gradient blue table header background */
+  color: white;
+  line-height: 30px;
+}
+
+tbody {
+  background-color: #444; /* Dark table body background color */
+  line-height: 30px;
+  text-align: center;
+}
+
+/* Button */
+
+button {
+  width: 200px;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  font-size: 1.1em;
+  line-height: 20px;
+  background: linear-gradient(to right, #0073e6, #00a8ff); /* Gradient blue button background */
+  border-radius: 5px;
+  margin: 14px 25%;
+  cursor: pointer;
+}
+
+button:hover {
+  box-shadow: 0 0 0 2px grey;
+  transition: 0.5s;
+}
+
+a {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #0073e6; /* Gradient blue link color */
+}
