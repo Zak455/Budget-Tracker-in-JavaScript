@@ -1,30 +1,39 @@
-# Hangman-Game-JavaScript
+# Budget-Tracker-in-JavaScript
 
-This is a classic Hangman game implemented using HTML, CSS, and JavaScript. Challenge your word-guessing skills while enjoying a visually appealing and responsive user interface. Play alone or with friends and see who can guess the word correctly before the hangman is fully drawn!
+Budget Tracker is a simple yet powerful web application that helps you manage your finances effortlessly. With an intuitive user interface, it allows you to track your income and expenses, view your transaction history, and calculate your current balance in real-time.
 
 # Key Features:
 
-- Random word selection from a diverse word list.
-- Interactive keyboard for letter selection.
-- Real-time feedback on correct and incorrect guesses.
-- Engaging hangman image progression.
-- Victory and game over modals with word reveal.
-- Responsive design for both desktop and mobile devices.
+- Add both income and expense transactions.
+- Edit or delete transactions easily.
+- Dynamic balance calculation based on your transactions.
+- Clean and responsive user interface.
+- Dark theme with gradient blue accents for a modern look.
 
 Feel free to explore, fork, and contribute to this project. Have fun guessing words and customizing the game to your liking!
 
-# Getting Started:
+# How to Use:
 
-Clone the repository.
-Open the index.html file in your web browser to start playing.
+1. Clone this repository.
+2. Open the index.html file in your web browser.
+3. Start managing your finances by adding transactions!
+
+# Technologies Used:
+
+1. HTML
+2. CSS
+3. JavaScript (Vanilla)
+4. Local Storage for data persistence
 
 # Contributing:
 
-Contributions are welcome! Whether you want to improve the game, add new features, or fix bugs, your contributions will help make this Hangman game even better. Please follow our Contributing Guidelines for more details.
+We welcome contributions from the open-source community to make Budget Tracker even better. Feel free to fork this repository, make improvements, and submit a pull request. Please read our contribution guidelines for more details.
 
 # License:
-Creative Commons License
-## Demo
 
+Creative Commons License
+
+## Demo
+Start managing your budget today with Budget Tracker!
 Insert gif or link to demo
 
