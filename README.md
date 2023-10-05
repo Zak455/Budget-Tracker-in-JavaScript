@@ -34,6 +34,5 @@ We welcome contributions from the open-source community to make Budget Tracker e
 Creative Commons License
 
 ## Demo
-Start managing your budget today with Budget Tracker!
-Insert gif or link to demo
+Start managing your budget today with [Budget Tracker!](https://zak455.github.io/Budget-Tracker-in-JavaScript/)
 
